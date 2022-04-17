@@ -4,7 +4,7 @@ Beat Saber Song and Mod Installer is a tool that allows you to easily install [B
 
 <img width="458" alt="Screenshot 2022-04-17 042931" src="https://user-images.githubusercontent.com/87048351/163706868-bb4bd161-3f79-4ca6-9933-e026ffbeb83f.png">
 
-Note: If you are only installing songs from BeatSaver or BeastSaber, try [turning on OneClick™ install](https://bsaber.com/getting-started/custom-songs/#:~:text=Custom%20Songs%20with%20ModAssistant%20(Easiest!)) inside of [ModAssistant](https://github.com/Assistant/ModAssistant/releases) instead as it may be easier. Also note that OneClick™ installs do not work on mods so dont turn this tool down immediately
+Note: If you are only installing songs from BeatSaver or BeastSaber, try [turning on OneClick™ install](https://bsaber.com/getting-started/custom-songs/#:~:text=Custom%20Songs%20with%20ModAssistant%20(Easiest!)) inside of [ModAssistant](https://github.com/Assistant/ModAssistant/releases) instead as it may be easier. You can also install mods inside of ModAssistant, but not all mods are available so dont turn this tool down immediately.
 
 ### [Download](https://github.com/Ainyaku/Beat-Saber-Song-and-Mod-Installer/archive/refs/heads/main.zip)
 
