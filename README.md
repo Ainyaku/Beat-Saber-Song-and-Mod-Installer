@@ -72,7 +72,7 @@ files will appear.
 
 ## Updating
 
-To update the installer, [uninstall the old tool](https://github.com/Ainyaku/Beat-Saber-Song-and-Mod-Installer/#uninstalling) and [reinstall the updated version](https://github.com/Ainyaku/Beat-Saber-Song-and-Mod-Installer/#installation) and you should be good to go. If you think you may get confused you can delete the files for the old version as they are no longer needed. You can check if you have the latest version by comparing what is in the `Version.txt` file on your computer with [the first release shown here.](https://github.com/Ainyaku/Beat-Saber-Song-and-Mod-Installer/releases)
+To update the installer, [uninstall the old tool](https://github.com/Ainyaku/Beat-Saber-Song-and-Mod-Installer/#uninstalling) and [reinstall the updated version](https://github.com/Ainyaku/Beat-Saber-Song-and-Mod-Installer/#installation) and you should be good to go. If you think you may get confused you can delete the files for the old version as they are no longer needed. You can check if you have the latest version by comparing what is in the `Version.txt` file on your computer with [the latest release shown here.](https://github.com/Ainyaku/Beat-Saber-Song-and-Mod-Installer/releases)
 
 ![image](https://user-images.githubusercontent.com/87048351/163703749-8513f75d-50ae-455c-ab53-261df78b0f73.png)
 
